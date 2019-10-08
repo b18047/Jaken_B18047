@@ -1,5 +1,7 @@
 class Board {
 
+  //間違えてマスターにいれました
+  
   void updateSelectArea() {
     PImage gu = loadImage("gu.png");
     PImage choki = loadImage("choki.png");
